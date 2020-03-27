@@ -1,0 +1,19 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Mac file
+*~.DS_Store
+
+# IDE files
+/.idea/
+*.iml
+
+# Package Files #
+*.jar
+
+
+#folders#
+/target
